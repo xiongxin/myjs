@@ -1,3 +1,9 @@
+.idea/
+webroot-pro/
+docs/
+logs/
+versions/
+
 # Build and Release Folders
 bin/
 bin-debug/
